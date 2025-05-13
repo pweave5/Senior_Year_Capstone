@@ -18,7 +18,7 @@ These statistics were then merged with playoff outcome data, including:
 
 The final dataset is available as a .csv file and included in this repository.
 
-## Project Summary
+## 🛠️ Project Summary
 
 ## 🚀 Future Improvements and Projects
 - Incoporate team playoff experience (e.g., past appearances, veteran presence)

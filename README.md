@@ -3,7 +3,7 @@ This project applies machine learning techniques to predict how much postseason 
 
 ## 🛠️ Project Summary
 This project was built entirely from scratch to explore what regular season performance metrics best predict NBA playoff success. Because no existing dataset matched the project's specific needs, I created one through custom web scraping.
-After assembling the dataset, I conducted exploratory data analysis (EDA) to uncover patterns and identify potential predictors of postseason performance. Modeling followed, with several approaches tested.
+After assembling the dataset, I conducted exploratory data analysis [EDA]() to uncover patterns and identify potential predictors of postseason performance. Modeling followed, with several approaches tested.
 
 The final model was a stacked ensemble combining:
 - Multiple Linear Regression (MLR)
@@ -18,7 +18,7 @@ When tested on the test set, the ensemble achieved:
 
 Interestingly, the model's predictions aligned closely with the betting odds from major sports books—suggesting strong real-world relevance.
 
-For full details on data collection, model development, and evaluation, see the [Final Paper]().
+For full details on data collection, model development, and evaluation, see the [Final Paper](https://github.com/pweave5/Senior_Year_Capstone/blob/main/Final%20Paper.docx).
 ## 🚀 Future Improvements and Projects
 - Incoporate team playoff experience (e.g., past appearances, veteran presence)
 - Implement classification models

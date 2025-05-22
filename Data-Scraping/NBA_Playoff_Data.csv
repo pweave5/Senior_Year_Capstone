@@ -1,0 +1,401 @@
+Season,Conference,Seed,Team,Wins,Champion,Conference_Final_Champ
+2000,West,1,Los Angeles Lakers,16,1,1
+2000,West,2,Utah Jazz,5,0,0
+2000,West,3,Portland Trail Blazers,11,0,0
+2000,West,4,San Antonio Spurs,1,0,0
+2000,West,5,Phoenix Suns,5,0,0
+2000,West,6,Minnesota Timberwolves,1,0,0
+2000,West,7,Seattle SuperSonics,2,0,0
+2000,West,8,Sacramento Kings,2,0,0
+2000,East,1,Indiana Pacers,14,0,1
+2000,East,2,Miami Heat,7,0,0
+2000,East,3,New York Knicks,10,0,0
+2000,East,4,Charlotte Hornets,1,0,0
+2000,East,5,Philadelphia 76ers,6,0,0
+2000,East,6,Toronto Raptors,0,0,0
+2000,East,7,Detroit Pistons,0,0,0
+2000,East,8,Milwaukee Bucks,2,0,0
+2001,West,1,San Antonio Spurs,8,0,0
+2001,West,2,Los Angeles Lakers,16,1,1
+2001,West,3,Sacramento Kings,4,0,0
+2001,West,4,Dallas Mavericks,5,0,0
+2001,West,5,Utah Jazz,2,0,0
+2001,West,6,Phoenix Suns,1,0,0
+2001,West,7,Portland Trail Blazers,0,0,0
+2001,West,8,Minnesota Timberwolves,1,0,0
+2001,East,1,Philadelphia 76ers,13,0,1
+2001,East,2,Milwaukee Bucks,11,0,0
+2001,East,3,Miami Heat,0,0,0
+2001,East,4,New York Knicks,2,0,0
+2001,East,5,Toronto Raptors,7,0,0
+2001,East,6,Charlotte Hornets,7,0,0
+2001,East,7,Orlando Magic,1,0,0
+2001,East,8,Indiana Pacers,1,0,0
+2002,West,1,Sacramento Kings,11,0,0
+2002,West,2,San Antonio Spurs,5,0,0
+2002,West,3,Los Angeles Lakers,16,1,1
+2002,West,4,Dallas Mavericks,5,0,0
+2002,West,5,Minnesota Timberwolves,0,0,0
+2002,West,6,Portland Trail Blazers,0,0,0
+2002,West,7,Seattle SuperSonics,2,0,0
+2002,West,8,Utah Jazz,1,0,0
+2002,East,1,New Jersey Nets,12,0,1
+2002,East,2,Detroit Pistons,5,0,0
+2002,East,3,Boston Celtics,10,0,0
+2002,East,4,Charlotte Hornets,5,0,0
+2002,East,5,Orlando Magic,1,0,0
+2002,East,6,Philadelphia 76ers,2,0,0
+2002,East,7,Toronto Raptors,2,0,0
+2002,East,8,Indiana Pacers,2,0,0
+2003,West,1,San Antonio Spurs,16,1,1
+2003,West,2,Sacramento Kings,7,0,0
+2003,West,3,Dallas Mavericks,10,0,0
+2003,West,4,Minnesota Timberwolves,2,0,0
+2003,West,5,Los Angeles Lakers,6,0,0
+2003,West,6,Portland Trail Blazers,3,0,0
+2003,West,7,Utah Jazz,1,0,0
+2003,West,8,Phoenix Suns,2,0,0
+2003,East,1,Detroit Pistons,8,0,0
+2003,East,2,New Jersey Nets,14,0,1
+2003,East,3,Indiana Pacers,2,0,0
+2003,East,4,Philadelphia 76ers,6,0,0
+2003,East,5,New Orleans Hornets,2,0,0
+2003,East,6,Boston Celtics,4,0,0
+2003,East,7,Milwaukee Bucks,2,0,0
+2003,East,8,Orlando Magic,3,0,0
+2004,West,1,Minnesota Timberwolves,10,0,0
+2004,West,2,Los Angeles Lakers,13,0,1
+2004,West,3,San Antonio Spurs,6,0,0
+2004,West,4,Sacramento Kings,7,0,0
+2004,West,5,Dallas Mavericks,1,0,0
+2004,West,6,Memphis Grizzlies,0,0,0
+2004,West,7,Houston Rockets,1,0,0
+2004,West,8,Denver Nuggets,1,0,0
+2004,East,1,Indiana Pacers,10,0,0
+2004,East,2,New Jersey Nets,7,0,0
+2004,East,3,Detroit Pistons,16,1,1
+2004,East,4,Miami Heat,6,0,0
+2004,East,5,New Orleans Hornets,3,0,0
+2004,East,6,Milwaukee Bucks,1,0,0
+2004,East,7,New York Knicks,0,0,0
+2004,East,8,Boston Celtics,0,0,0
+2005,West,1,Phoenix Suns,9,0,0
+2005,West,2,San Antonio Spurs,16,1,1
+2005,West,3,Seattle SuperSonics,6,0,0
+2005,West,4,Dallas Mavericks,6,0,0
+2005,West,5,Houston Rockets,3,0,0
+2005,West,6,Sacramento Kings,1,0,0
+2005,West,7,Denver Nuggets,1,0,0
+2005,West,8,Memphis Grizzlies,0,0,0
+2005,East,1,Miami Heat,11,0,0
+2005,East,2,Detroit Pistons,15,0,1
+2005,East,3,Boston Celtics,3,0,0
+2005,East,4,Chicago Bulls,2,0,0
+2005,East,5,Washington Wizards,4,0,0
+2005,East,6,Indiana Pacers,6,0,0
+2005,East,7,Philadelphia 76ers,1,0,0
+2005,East,8,New Jersey Nets,0,0,0
+2006,West,1,San Antonio Spurs,7,0,0
+2006,West,2,Phoenix Suns,10,0,0
+2006,West,3,Denver Nuggets,1,0,0
+2006,West,4,Dallas Mavericks,14,0,1
+2006,West,5,Memphis Grizzlies,0,0,0
+2006,West,6,Los Angeles Clippers,7,0,0
+2006,West,7,Los Angeles Lakers,3,0,0
+2006,West,8,Sacramento Kings,2,0,0
+2006,East,1,Detroit Pistons,10,0,0
+2006,East,2,Miami Heat,16,1,1
+2006,East,3,New Jersey Nets,5,0,0
+2006,East,4,Cleveland Cavaliers,7,0,0
+2006,East,5,Washington Wizards,2,0,0
+2006,East,6,Indiana Pacers,2,0,0
+2006,East,7,Chicago Bulls,2,0,0
+2006,East,8,Milwaukee Bucks,1,0,0
+2007,West,1,Dallas Mavericks,2,0,0
+2007,West,2,Phoenix Suns,6,0,0
+2007,West,3,San Antonio Spurs,16,1,1
+2007,West,4,Utah Jazz,9,0,0
+2007,West,5,Houston Rockets,3,0,0
+2007,West,6,Denver Nuggets,1,0,0
+2007,West,7,Los Angeles Lakers,1,0,0
+2007,West,8,Golden State Warriors,5,0,0
+2007,East,1,Detroit Pistons,10,0,0
+2007,East,2,Cleveland Cavaliers,12,0,1
+2007,East,3,Toronto Raptors,2,0,0
+2007,East,4,Miami Heat,0,0,0
+2007,East,5,Chicago Bulls,6,0,0
+2007,East,6,New Jersey Nets,6,0,0
+2007,East,7,Washington Wizards,0,0,0
+2007,East,8,Orlando Magic,0,0,0
+2008,West,1,Los Angeles Lakers,14,0,1
+2008,West,2,New Orleans Hornets,7,0,0
+2008,West,3,San Antonio Spurs,9,0,0
+2008,West,4,Utah Jazz,6,0,0
+2008,West,5,Houston Rockets,2,0,0
+2008,West,6,Phoenix Suns,1,0,0
+2008,West,7,Dallas Mavericks,2,0,0
+2008,West,8,Denver Nuggets,0,0,0
+2008,East,1,Boston Celtics,16,1,1
+2008,East,2,Detroit Pistons,10,0,0
+2008,East,3,Orlando Magic,5,0,0
+2008,East,4,Cleveland Cavaliers,7,0,0
+2008,East,5,Washington Wizards,2,0,0
+2008,East,6,Toronto Raptors,1,0,0
+2008,East,7,Philadelphia 76ers,2,0,0
+2008,East,8,Atlanta Hawks,3,0,0
+2009,West,1,Los Angeles Lakers,16,1,1
+2009,West,2,Denver Nuggets,10,0,0
+2009,West,3,San Antonio Spurs,1,0,0
+2009,West,4,Portland Trail Blazers,2,0,0
+2009,West,5,Houston Rockets,7,0,0
+2009,West,6,Dallas Mavericks,5,0,0
+2009,West,7,New Orleans Hornets,1,0,0
+2009,West,8,Utah Jazz,1,0,0
+2009,East,1,Cleveland Cavaliers,10,0,0
+2009,East,2,Boston Celtics,7,0,0
+2009,East,3,Orlando Magic,13,0,1
+2009,East,4,Atlanta Hawks,4,0,0
+2009,East,5,Miami Heat,3,0,0
+2009,East,6,Philadelphia 76ers,2,0,0
+2009,East,7,Chicago Bulls,3,0,0
+2009,East,8,Detroit Pistons,0,0,0
+2010,West,1,Los Angeles Lakers,16,1,1
+2010,West,2,Dallas Mavericks,2,0,0
+2010,West,3,Phoenix Suns,10,0,0
+2010,West,4,Denver Nuggets,2,0,0
+2010,West,5,Utah Jazz,4,0,0
+2010,West,6,Portland Trail Blazers,2,0,0
+2010,West,7,San Antonio Spurs,4,0,0
+2010,West,8,Oklahoma City Thunder,2,0,0
+2010,East,1,Cleveland Cavaliers,6,0,0
+2010,East,2,Orlando Magic,10,0,0
+2010,East,3,Atlanta Hawks,4,0,0
+2010,East,4,Boston Celtics,15,0,1
+2010,East,5,Miami Heat,1,0,0
+2010,East,6,Milwaukee Bucks,3,0,0
+2010,East,7,Charlotte Bobcats,0,0,0
+2010,East,8,Chicago Bulls,1,0,0
+2011,West,1,San Antonio Spurs,2,0,0
+2011,West,2,Los Angeles Lakers,4,0,0
+2011,West,3,Dallas Mavericks,16,1,1
+2011,West,4,Oklahoma City Thunder,9,0,0
+2011,West,5,Denver Nuggets,1,0,0
+2011,West,6,Portland Trail Blazers,2,0,0
+2011,West,7,New Orleans Hornets,2,0,0
+2011,West,8,Memphis Grizzlies,7,0,0
+2011,East,1,Chicago Bulls,9,0,0
+2011,East,2,Miami Heat,14,0,1
+2011,East,3,Boston Celtics,5,0,0
+2011,East,4,Orlando Magic,2,0,0
+2011,East,5,Atlanta Hawks,6,0,0
+2011,East,6,New York Knicks,0,0,0
+2011,East,7,Philadelphia 76ers,1,0,0
+2011,East,8,Indiana Pacers,1,0,0
+2012,West,1,San Antonio Spurs,10,0,0
+2012,West,2,Oklahoma City Thunder,13,0,1
+2012,West,3,Los Angeles Lakers,5,0,0
+2012,West,4,Memphis Grizzlies,3,0,0
+2012,West,5,Los Angeles Clippers,4,0,0
+2012,West,6,Denver Nuggets,3,0,0
+2012,West,7,Dallas Mavericks,0,0,0
+2012,West,8,Utah Jazz,0,0,0
+2012,East,1,Chicago Bulls,2,0,0
+2012,East,2,Miami Heat,16,1,1
+2012,East,3,Indiana Pacers,6,0,0
+2012,East,4,Boston Celtics,11,0,0
+2012,East,5,Atlanta Hawks,2,0,0
+2012,East,6,Orlando Magic,1,0,0
+2012,East,7,New York Knicks,1,0,0
+2012,East,8,Philadelphia 76ers,7,0,0
+2013,West,1,Oklahoma City Thunder,5,0,0
+2013,West,2,San Antonio Spurs,15,0,1
+2013,West,3,Denver Nuggets,2,0,0
+2013,West,4,Los Angeles Clippers,2,0,0
+2013,West,5,Memphis Grizzlies,8,0,0
+2013,West,6,Golden State Warriors,6,0,0
+2013,West,7,Los Angeles Lakers,0,0,0
+2013,West,8,Houston Rockets,2,0,0
+2013,East,1,Miami Heat,16,1,1
+2013,East,2,New York Knicks,6,0,0
+2013,East,3,Indiana Pacers,11,0,0
+2013,East,4,Brooklyn Nets,3,0,0
+2013,East,5,Chicago Bulls,5,0,0
+2013,East,6,Atlanta Hawks,2,0,0
+2013,East,7,Boston Celtics,2,0,0
+2013,East,8,Milwaukee Bucks,0,0,0
+2014,West,1,San Antonio Spurs,16,1,1
+2014,West,2,Oklahoma City Thunder,10,0,0
+2014,West,3,Los Angeles Clippers,6,0,0
+2014,West,4,Houston Rockets,2,0,0
+2014,West,5,Portland Trail Blazers,5,0,0
+2014,West,6,Golden State Warriors,3,0,0
+2014,West,7,Memphis Grizzlies,3,0,0
+2014,West,8,Dallas Mavericks,3,0,0
+2014,East,1,Indiana Pacers,10,0,0
+2014,East,2,Miami Heat,13,0,1
+2014,East,3,Toronto Raptors,3,0,0
+2014,East,4,Chicago Bulls,1,0,0
+2014,East,5,Washington Wizards,6,0,0
+2014,East,6,Brooklyn Nets,5,0,0
+2014,East,7,Charlotte Bobcats,0,0,0
+2014,East,8,Atlanta Hawks,3,0,0
+2015,West,1,Golden State Warriors,16,1,1
+2015,West,2,Houston Rockets,9,0,0
+2015,West,3,Los Angeles Clippers,7,0,0
+2015,West,4,Portland Trail Blazers,1,0,0
+2015,West,5,Memphis Grizzlies,6,0,0
+2015,West,6,San Antonio Spurs,3,0,0
+2015,West,7,Dallas Mavericks,1,0,0
+2015,West,8,New Orleans Pelicans,0,0,0
+2015,East,1,Atlanta Hawks,8,0,0
+2015,East,2,Cleveland Cavaliers,14,0,1
+2015,East,3,Chicago Bulls,6,0,0
+2015,East,4,Toronto Raptors,0,0,0
+2015,East,5,Washington Wizards,6,0,0
+2015,East,6,Milwaukee Bucks,2,0,0
+2015,East,7,Boston Celtics,0,0,0
+2015,East,8,Brooklyn Nets,2,0,0
+2016,West,1,Golden State Warriors,15,0,1
+2016,West,2,San Antonio Spurs,6,0,0
+2016,West,3,Oklahoma City Thunder,11,0,0
+2016,West,4,Los Angeles Clippers,2,0,0
+2016,West,5,Portland Trail Blazers,5,0,0
+2016,West,6,Dallas Mavericks,1,0,0
+2016,West,7,Memphis Grizzlies,0,0,0
+2016,West,8,Houston Rockets,1,0,0
+2016,East,1,Cleveland Cavaliers,16,1,1
+2016,East,2,Toronto Raptors,10,0,0
+2016,East,3,Miami Heat,7,0,0
+2016,East,4,Atlanta Hawks,4,0,0
+2016,East,5,Boston Celtics,2,0,0
+2016,East,6,Charlotte Hornets,3,0,0
+2016,East,7,Indiana Pacers,3,0,0
+2016,East,8,Detroit Pistons,0,0,0
+2017,West,1,Golden State Warriors,16,1,1
+2017,West,2,San Antonio Spurs,8,0,0
+2017,West,3,Houston Rockets,6,0,0
+2017,West,4,Los Angeles Clippers,3,0,0
+2017,West,5,Utah Jazz,4,0,0
+2017,West,6,Oklahoma City Thunder,1,0,0
+2017,West,7,Memphis Grizzlies,2,0,0
+2017,West,8,Portland Trail Blazers,0,0,0
+2017,East,1,Boston Celtics,9,0,0
+2017,East,2,Cleveland Cavaliers,13,0,1
+2017,East,3,Toronto Raptors,4,0,0
+2017,East,4,Washington Wizards,7,0,0
+2017,East,5,Atlanta Hawks,2,0,0
+2017,East,6,Milwaukee Bucks,2,0,0
+2017,East,7,Indiana Pacers,0,0,0
+2017,East,8,Chicago Bulls,2,0,0
+2018,West,1,Houston Rockets,11,0,0
+2018,West,2,Golden State Warriors,16,1,1
+2018,West,3,Portland Trail Blazers,0,0,0
+2018,West,4,Oklahoma City Thunder,2,0,0
+2018,West,5,Utah Jazz,5,0,0
+2018,West,6,New Orleans Pelicans,5,0,0
+2018,West,7,San Antonio Spurs,1,0,0
+2018,West,8,Minnesota Timberwolves,1,0,0
+2018,East,1,Toronto Raptors,4,0,0
+2018,East,2,Boston Celtics,11,0,0
+2018,East,3,Philadelphia 76ers,5,0,0
+2018,East,4,Cleveland Cavaliers,12,0,1
+2018,East,5,Indiana Pacers,3,0,0
+2018,East,6,Miami Heat,1,0,0
+2018,East,7,Milwaukee Bucks,3,0,0
+2018,East,8,Washington Wizards,2,0,0
+2019,West,1,Golden State Warriors,14,0,1
+2019,West,2,Denver Nuggets,7,0,0
+2019,West,3,Portland Trail Blazers,8,0,0
+2019,West,4,Houston Rockets,6,0,0
+2019,West,5,Utah Jazz,1,0,0
+2019,West,6,Oklahoma City Thunder,1,0,0
+2019,West,7,San Antonio Spurs,3,0,0
+2019,West,8,Los Angeles Clippers,2,0,0
+2019,East,1,Milwaukee Bucks,10,0,0
+2019,East,2,Toronto Raptors,16,1,1
+2019,East,3,Philadelphia 76ers,7,0,0
+2019,East,4,Boston Celtics,5,0,0
+2019,East,5,Indiana Pacers,0,0,0
+2019,East,6,Brooklyn Nets,1,0,0
+2019,East,7,Orlando Magic,1,0,0
+2019,East,8,Detroit Pistons,0,0,0
+2020,West,1,Los Angeles Lakers,16,1,1
+2020,West,2,Los Angeles Clippers,7,0,0
+2020,West,3,Denver Nuggets,9,0,0
+2020,West,4,Houston Rockets,5,0,0
+2020,West,5,Oklahoma City Thunder,3,0,0
+2020,West,6,Utah Jazz,3,0,0
+2020,West,7,Dallas Mavericks,2,0,0
+2020,West,8,Portland Trail Blazers,1,0,0
+2020,East,1,Milwaukee Bucks,5,0,0
+2020,East,2,Toronto Raptors,7,0,0
+2020,East,3,Boston Celtics,10,0,0
+2020,East,4,Miami Heat,14,0,1
+2020,East,5,Indiana Pacers,0,0,0
+2020,East,6,Philadelphia 76ers,0,0,0
+2020,East,7,Brooklyn Nets,0,0,0
+2020,East,8,Orlando Magic,1,0,0
+2021,West,1,Utah Jazz,6,0,0
+2021,West,2,Phoenix Suns,14,0,1
+2021,West,3,Denver Nuggets,4,0,0
+2021,West,4,Los Angeles Clippers,10,0,0
+2021,West,5,Dallas Mavericks,3,0,0
+2021,West,6,Portland Trail Blazers,2,0,0
+2021,West,7,Los Angeles Lakers,2,0,0
+2021,West,8,Memphis Grizzlies,1,0,0
+2021,East,1,Philadelphia 76ers,7,0,0
+2021,East,2,Brooklyn Nets,7,0,0
+2021,East,3,Milwaukee Bucks,16,1,1
+2021,East,4,New York Knicks,1,0,0
+2021,East,5,Atlanta Hawks,10,0,0
+2021,East,6,Miami Heat,0,0,0
+2021,East,7,Boston Celtics,1,0,0
+2021,East,8,Washington Wizards,1,0,0
+2022,West,1,Phoenix Suns,7,0,0
+2022,West,2,Memphis Grizzlies,6,0,0
+2022,West,3,Golden State Warriors,16,1,1
+2022,West,4,Dallas Mavericks,9,0,0
+2022,West,5,Utah Jazz,2,0,0
+2022,West,6,Denver Nuggets,1,0,0
+2022,West,7,Minnesota Timberwolves,2,0,0
+2022,West,8,New Orleans Pelicans,2,0,0
+2022,East,1,Miami Heat,11,0,0
+2022,East,2,Boston Celtics,14,0,1
+2022,East,3,Milwaukee Bucks,7,0,0
+2022,East,4,Philadelphia 76ers,6,0,0
+2022,East,5,Toronto Raptors,2,0,0
+2022,East,6,Chicago Bulls,1,0,0
+2022,East,7,Brooklyn Nets,0,0,0
+2022,East,8,Atlanta Hawks,1,0,0
+2023,West,1,Denver Nuggets,16,1,1
+2023,West,2,Memphis Grizzlies,2,0,0
+2023,West,3,Sacramento Kings,3,0,0
+2023,West,4,Phoenix Suns,6,0,0
+2023,West,5,Los Angeles Clippers,1,0,0
+2023,West,6,Golden State Warriors,6,0,0
+2023,West,7,Los Angeles Lakers,8,0,0
+2023,West,8,Minnesota Timberwolves,1,0,0
+2023,East,1,Milwaukee Bucks,1,0,0
+2023,East,2,Boston Celtics,11,0,0
+2023,East,3,Philadelphia 76ers,7,0,0
+2023,East,4,Cleveland Cavaliers,1,0,0
+2023,East,5,New York Knicks,6,0,0
+2023,East,6,Brooklyn Nets,0,0,0
+2023,East,7,Atlanta Hawks,2,0,0
+2023,East,8,Miami Heat,13,0,1
+2024,West,1,Oklahoma City Thunder,6,0,0
+2024,West,2,Denver Nuggets,7,0,0
+2024,West,3,Minnesota Timberwolves,9,0,0
+2024,West,4,Los Angeles Clippers,2,0,0
+2024,West,5,Dallas Mavericks,13,0,1
+2024,West,6,Phoenix Suns,0,0,0
+2024,West,7,Los Angeles Lakers,1,0,0
+2024,West,8,New Orleans Pelicans,0,0,0
+2024,East,1,Boston Celtics,16,1,1
+2024,East,2,New York Knicks,7,0,0
+2024,East,3,Milwaukee Bucks,2,0,0
+2024,East,4,Cleveland Cavaliers,5,0,0
+2024,East,5,Orlando Magic,3,0,0
+2024,East,6,Indiana Pacers,8,0,0
+2024,East,7,Philadelphia 76ers,2,0,0
+2024,East,8,Miami Heat,1,0,0
